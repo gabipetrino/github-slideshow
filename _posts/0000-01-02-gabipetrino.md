@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Si los zombies vienen a tu casa? Zombienvenidos?
 Use the left arrow to go back!
